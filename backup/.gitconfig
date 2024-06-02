@@ -1,7 +1,7 @@
 [user]
 	name = Andrew Stiefel
 	email = andrew@andrewstiefel.com
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINq3yIrZ4RjhUkd58kynHRJ4Gvv6TqTmOGqjMTYqr9Wy
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJH0H44ipquYvQAnJz/WLEaZlvqDjpJp+W/MuYZmTE6C
 
 # This next lines include Netlify's Git Credential Helper configuration in your Git configuration.
 [include]
