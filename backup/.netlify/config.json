@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "d5f50b7e-0d1e-491d-a7a2-64e25b8181f4",
+	"userId": "5c80a5f8dca4b295427e7c33",
+	"users": {
+		"5c80a5f8dca4b295427e7c33": {
+			"id": "5c80a5f8dca4b295427e7c33",
+			"name": "Andrew Stiefel",
+			"email": "netlify@andrewstiefel.net",
+			"auth": {
+				"token": "1266c285bf1f05b8bff8ded89715f5f12d52103216f01c482ce47078cca872fa",
+				"github": {}
+			}
+		}
+	}
+}

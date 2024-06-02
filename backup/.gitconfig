@@ -1,0 +1,19 @@
+[user]
+	name = Andrew Stiefel
+	email = andrew@andrewstiefel.com
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINq3yIrZ4RjhUkd58kynHRJ4Gvv6TqTmOGqjMTYqr9Wy
+
+# This next lines include Netlify's Git Credential Helper configuration in your Git configuration.
+[include]
+  path = /Users/andrewstiefel/.netlify/helper/git-config
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[gpg]
+	format = ssh
+[gpg "ssh"]
+	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
+[commit]
+	gpgsign = true
