@@ -30,6 +30,7 @@ cask 'tidal'
 cask 'transmit'
 cask 'the-unarchiver'
 cask 'visual-studio-code'
+cask 'zoom'
 
 # Mac App Store
 mas 'Things', id: 904280696
