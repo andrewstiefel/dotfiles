@@ -14,19 +14,22 @@ cask '1password-cli'
 cask 'ableton-live-suite'
 cask 'arc'
 cask 'backblaze'
+cask 'firefox'
+cask 'google-chrome'
 cask 'cycling74-max'
 cask 'hyper'
+cask 'iterm2'
 cask 'malwarebytes'
 cask 'obsidian'
 cask 'protonmail-bridge'
 cask 'proton-drive'
 cask 'protonvpn'
 cask 'raycast'
-cask 'reflect'
+cask 'screen-studio'
 cask 'tidal'
+cask 'transmit'
 cask 'the-unarchiver'
 cask 'visual-studio-code'
 
 # Mac App Store
-mas 'Things', id: 904280696,
-mas 'Ulysses: Writing App', id: 1225570693
+mas 'Things', id: 904280696

@@ -10,6 +10,5 @@
     "workbench.startupEditor": "none",
     "editor.wordWrap": "on",
     "editor.detectIndentation": false,
-    "editor.tabSize": 2,
-    "workbench.colorTheme": "Tokyo Night"
+    "editor.tabSize": 2
 }
