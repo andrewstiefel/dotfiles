@@ -113,7 +113,7 @@ defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 # all wallpapers are in `/Library/Desktop Pictures/`. The default is `Wave.jpg`.
 rm -rf ~/Library/Application Support/Dock/desktoppicture.db
 sudo rm -rf /System/Library/CoreServices/DefaultDesktop.jpg
-sudo ln -s /Library/Desktop Pictures/Plants/Agave.jpg /System/Library/CoreServices/DefaultDesktop.jpg
+sudo ln -s /Library/Desktop Pictures/Plants/Agave.jpg
 
 ###############################################################################
 # Trackpad, mouse, keyboard, Bluetooth accessories, and input                 #
